@@ -1,0 +1,49 @@
+img {
+	width: 600px;
+	height: 400px
+}
+
+body {
+	padding-top: 20px;
+}
+
+#puzzle {
+	width: 820px;
+	padding: 5px;
+	margin: auto;
+	border: 1px solid #aaa;
+	border-radius: 20px;
+	background-color: #EFEFEF;
+}
+
+#puzzle figure {
+	width: 600px;
+	height: 400px;
+	border: 1px solid #aaa;
+	position: relative;
+	float: left;
+	background-color: #fff;
+}
+
+#ui {
+	width: 200px;
+	padding: 10px 0 0 10px;
+	float: left;
+}
+
+#ui button {
+	margin-bottom: 2em;
+}
+
+#ui p {
+	font-size: 1.7em;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+}
+
+#start,
+#restart {
+	width: 204px;
+	height: 50px;
+	font-size: 1.75em;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', 'sans-serif';
+}
